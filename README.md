@@ -37,5 +37,5 @@
 - [Python 문제 풀이](./python)
 - [Python > 프로그래머스 문제](./python/programmers)
 - [Python > 백준 문제](./python/baekjoon)
-- [Python > 세삭 프로젝트 Eun](./python/sesac_python_eun)
-- [Python > 세삭 프로젝트 Yong](./python/sesac_python_yong)
+- [Python > 새싹 프로젝트 Eun](./python/sesac_python_eun)
+- [Python > 새싹 프로젝트 Yong](./python/sesac_python_yong)
